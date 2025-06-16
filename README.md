@@ -15,7 +15,7 @@ A deep learning–based **Intrusion Detection System** (IDS) capable of identify
 
 As cyber threats continue to grow in scale and complexity, traditional rule-based intrusion detection systems (IDS) struggle to keep up with evolving attack patterns. This project presents a modern, data-driven IDS that leverages the power of deep learning to automatically detect and classify malicious behavior in network traffic.
 
-We train and deploy a hybrid **Convolutional Neural Network (CNN)** and **Long Short-Term Memory (LSTM)** model capable of classifying flow-level network traffic into 8 different classes, including various forms of **Bot**, **SSH_BruteForce**, **DDoS_HOIC**, **DoS_Hulk**, **FTP_BruteForce**, **DDoS_LOIC_HTTP**, **DoS_GoldenEyeand** and **benign** behavior.
+We train and deploy a hybrid **Convolutional Neural Network (CNN)** and **Long Short-Term Memory (LSTM)** model capable of classifying flow-level network traffic into 8 different classes, including various forms of **Bot**, **SSH_BruteForce**, **DDoS_HOIC**, **DoS_Hulk**, **FTP_BruteForce**, **DDoS_LOIC_HTTP**, **DoS_GoldenEye** and **benign** behavior.
 
 ---
 
