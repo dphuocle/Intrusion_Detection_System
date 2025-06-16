@@ -1,7 +1,7 @@
 
 # 🛡️ Intrusion Detection System (IDS) using CNN + LSTM model
 
-A real-time, deep learning–based **Intrusion Detection System** (IDS) capable of identifying and classifying network traffic as either benign or one of several types of cyberattacks. This project uses a hybrid **CNN + LSTM neural network** trained on the **CSE-CIC-IDS2018** dataset and deployed as a web app with **Streamlit**.
+A deep learning–based **Intrusion Detection System** (IDS) capable of identifying and classifying network traffic as either benign or one of several types of cyberattacks. This project uses a hybrid **CNN + LSTM neural network** trained on the **CSE-CIC-IDS2018** dataset and deployed as a web app with **Streamlit**.
 
 ---
 
