@@ -46,7 +46,7 @@ Input [Batch, Features]
 | Labels           | 8 classes (Benign + 7 attack types)   |
 | Split Ratio      | 80% train / 10% val / 10% test        |
 | Loss             | CrossEntropyLoss                      |
-| Optimizer        | Adam (lr = 1e-4)                      |
+| Optimizer        | Adam (learning rate = 1e-4)           |
 | Epochs           | 20                                    |
 | Batch Size       | 64                                    |
 
