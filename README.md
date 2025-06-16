@@ -80,7 +80,7 @@ The trained model (`model_hybrid_cnn_lstm.pt`) is integrated into a **Streamlit 
 git clone https://github.com/dphuocle/Intrusion_Detection_System.git
 cd Intrusion_Detection_System
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run deploy.py
 ```
 
 ---
@@ -107,15 +107,6 @@ streamlit run app.py
 - Streamlit
 - scikit-learn
 - pandas, numpy, matplotlib
-
----
-
-## 📌 Future Work
-
-- Integrate real-time traffic capture (e.g. via pcap + Zeek)
-- Add SHAP-based model explainability
-- Expand to multi-label classification
-- Dockerize for enterprise deployment
 
 ---
 
