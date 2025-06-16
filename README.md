@@ -1,4 +1,4 @@
-# 🛡️ Intrusion Detection System (IDS) – Deep Learning Powered
+# 🛡️ Intrusion Detection System (IDS)
 
 A real-time, deployable Intrusion Detection System (IDS) that detects malicious network flows using a hybrid **CNN + LSTM** deep learning model.  
 Built with **Streamlit** for an intuitive web interface and deployed to the cloud.
